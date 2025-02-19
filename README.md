@@ -3,7 +3,6 @@
 <p id="description">An innovative IoT-based solution to automate classroom power management ensuring energy efficiency and real-time monitoring. 🚀</p>
 
 
-
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
@@ -20,7 +19,7 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Hardware: ESP32 RFID scanner and tags.
-*   Cloud Database: InfluxDB for storing and managing data.
+*   Cloud Database: InfluxDB for Data Storage and Management.
 *   Visualization: Grafana for interactive and responsive dashboards.
 *   Programming: C++ for ESP32 and scripting for dashboard logic.
 
